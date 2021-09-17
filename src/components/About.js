@@ -40,8 +40,8 @@ export default function About(props) {
                                 <div className="accordion-body">
                                     Author and Owner of this website is FgrReloaded who is an independent programmer and coder. FgrReloaded is a new web developer who always engaged in creating website and learning new techs.
                                     <br/>
-                                    <p>If you are interested in communicating with FgrReloaded for business purpose then You can communicate him via email:-fgrbusiness@gmail.com</p>
-                                    <p>If you are interested in collaborating with FgrReloaded then You can communicate him via this email:-fgrtogether@gmail.com</p>
+                                    <p>If you are interested in communicating with FgrReloaded for business purpose then You can communicate him via email:-businesswithfgr@gmail.com</p>
+                                    <p>If you are interested in collaborating with FgrReloaded then You can communicate him via this email:-fgrcollaborate@gmail.com</p>
                                 </div>
                             </div>
                         </div>
