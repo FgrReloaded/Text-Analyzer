@@ -65,7 +65,7 @@ export default function About(props) {
                                     <br/>
                                     Facebook:-
                                     <br/>
-                                    Linkedln:-
+                                    Linkedln:-https://www.linkedin.com/in/nitish-kumar-a13b83219
                                     <br/>
                                     Telegram Channel:-
                                     <br/>
