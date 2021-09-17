@@ -53,9 +53,9 @@ export default function About(props) {
                             </h2>
                             <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                 <div className="accordion-body">
-                                    Github:-
+                                    Github:-https://github.com/fgrreloaded
                                     <br/>
-                                    Stack overflow:-
+                                    Stack overflow:-https://stackoverflow.com/users/16613519/fgr-reloaded
                                     <br/>
                                     Youtube:-
                                     <br/>
