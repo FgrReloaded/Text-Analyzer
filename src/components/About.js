@@ -59,9 +59,9 @@ export default function About(props) {
                                     <br/>
                                     Youtube:-
                                     <br/>
-                                    Feverr:-
+                                    Feverr:-https://www.fiverr.com/fgrreloaded
                                     <br/>
-                                    Upwork:-
+                                    Upwork:-https://www.upwork.com/o/profiles/users/~01f5b8839ae819a6ec/
                                     <br/>
                                     Facebook:-
                                     <br/>
