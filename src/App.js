@@ -44,7 +44,10 @@ function App() {
       setChangeStyle({ color: '#28a745' })
       setColor({color:'#28a745'})
     }
-    else{
+  }
+ 
+  const toggleLight = () => {
+    if (Mode !== 'light') {
       setMode('light')
       document.body.style.backgroundColor = 'white'
       setNewStyle({ color: '#212529' })
@@ -54,12 +57,6 @@ function App() {
       setTextStyle({ background: 'white', color: '#212529' })
       showAlert('Light Mode Enabled', 'success')
       setColor(null)
-    }
-  }
- 
-  const toggleLight = () => {
-    if (Mode !== 'light') {
-     
     }
   }
   const toggleDanger = () => {
